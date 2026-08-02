@@ -44,7 +44,7 @@ Backend Developer • Systems Programming • Networking
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
 </p>
 
 ### Backend
